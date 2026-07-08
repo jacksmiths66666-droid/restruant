@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project-specific
+images/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/
